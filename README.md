@@ -10,4 +10,4 @@ What was completed during this exercise:
 * Title added
 * HTML and CSS cleaned up, unnecessary elements fixed or removed
 
-![Preview](https://i.imgur.com/CnK8OxD.gif)
+![Preview](https://i.imgur.com/IoxmIVM.jpg)
